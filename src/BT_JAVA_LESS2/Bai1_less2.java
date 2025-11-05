@@ -31,7 +31,6 @@ public class Bai1_less2 {
                 System.out.println("So thu 3 lon hon hoac bang so thu 4");
             } else if (thirdNum <= fourthNum) {
                 System.out.println("So thu 3 nho hon hoac bang so  thu 4");
-
             }
             {
 
