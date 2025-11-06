@@ -1,9 +1,12 @@
 package BT_JAVA_LESS2;
 
+import java.util.Scanner;
+
 public class Bai1_less2 {
     public static void main(String[] args) {
         Bai1_less2 livecode = new Bai1_less2();
-        livecode.ex1();
+        //livecode.ex1();
+        livecode.ex2();
     }
 
     public void ex1() {
@@ -43,5 +46,22 @@ public class Bai1_less2 {
             {
             }
         }
+    }
+
+    public void ex2() {
+        //Lenh in
+        Scanner sc = new Scanner(System.in);
+        // In ra chieu dai
+        System.out.print("Nhap chieu dai: ");
+        double chieuDai = sc.nextDouble();
+        //In ra chieu rong
+        System.out.print("Nhap chieu rong: ");
+        double chieuRong = sc.nextDouble();
+        //Tinh chu vi va dien tich
+        double chuVi = (chieuDai + chieuRong) * 2;
+        double dienTich = chieuDai * chieuRong;
+
+        System.out.println("Chu vi HCN la: " + chuVi);
+        System.out.println("Dien tich HCN la: " + dienTich);
     }
 }
