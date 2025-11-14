@@ -169,6 +169,11 @@ public class Bai4 {
         System.out.print("Nhap so nguyen 1-12: ");
         int nam = sc.nextInt();
 
+        if(nam < 1 || nam > 12) {
+            System.out.println("Khong hop le");
+            return;
+        }
+
         switch (nam) {
             case 1:
                 System.out.println("Thang 1");
@@ -206,8 +211,6 @@ public class Bai4 {
             case 12:
                 System.out.println("Thang 12");
                 break;
-            default:
-                System.out.println("Day khong phai nam");
         }
         sc.close();
     }

@@ -5,67 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c26c1f9c-81d6-4cc6-9c28-96a7db7b16ee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT13_Package/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BT13_Package/ThongTin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaForTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BT11_TestGit/TestGit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTVN_JAVA4TEST_Phonglv.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT11_TestGit/TestGit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT1_Bien/SinhVien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT1_Bien/ThongTin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT2_KieuDuLieu/KieuDuLieu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT3_ToanTu/SoSanh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT3_ToanTu/ToanTu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT4_IF_ELSE/If_Else.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT4_IF_ELSE/Switch_case.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT5_VonglapFOR/VonglapFOR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT6_For_Array/Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT7_ArrayList/Arraylist_new.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BT7_ArrayList/Sua_Array_thanh_ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BTVN_JAVA4TEST_Phonglv/BTVN_JAVA4TEST_Phonglv.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestDauVao/Bai1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PhongLV-9x"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PhongLV-9x&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PhongLV-9x/JavaForTest.git",
-    "accountId": "5b839e09-b5bb-43fe-9d6d-8c115614fec4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PhongLV-9x/JavaForTest.git&quot;,
+    &quot;accountId&quot;: &quot;5b839e09-b5bb-43fe-9d6d-8c115614fec4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="32Xlc1qU9jCAufum1eQdkhUzJSM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ThongTin.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ThongTin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ThongTin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BT13_Package.ThongTin" />
@@ -96,5 +84,16 @@
       <updated>1757574874251</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
